@@ -217,6 +217,7 @@ void menu()
 	int op;
    printf("\n1.-Suma\n2.-Resta\n3.-Multiplicación\n4.-Salir\n");
    scanf("%d", &op);
+   system("cls");
    switch (op)
    {
 	       case 1 :
