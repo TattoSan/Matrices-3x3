@@ -215,7 +215,7 @@ void multiplicacion()
 void menu()
 {
 	int op;
-   printf("\n1.-Suma\n2.-Resta\n3.-Multiplicación\n4.-Salir\n");
+   printf("\n1.-Suma\n2.-Resta\n3.-Multiplicaci%cn\n4.-Salir\n",162);
    scanf("%d", &op);
    system("cls");
    switch (op)
